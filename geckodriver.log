@@ -445,3 +445,209 @@ console.error: services.settings:
 console.error: services.settings: 
   main/doh-config local data was corrupted
 console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1651592540242	geckodriver	INFO	Listening on 127.0.0.1:38541
+1651592540308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUGLRN5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651592540777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUGLRN5/search.json.mozlz4", (void 0)))
+1651592542739	Marionette	INFO	Listening on port 46761
+Read port: 46761
+1651592542851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+1651592560373	geckodriver	INFO	Listening on 127.0.0.1:55941
+1651592560440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileL1W4pR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651592560922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL1W4pR/search.json.mozlz4", (void 0)))
+1651592563080	Marionette	INFO	Listening on port 42773
+Read port: 42773
+1651592563174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+1651592818463	geckodriver	INFO	Listening on 127.0.0.1:39039
+1651592818528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile82eUJn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651592819002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile82eUJn/search.json.mozlz4", (void 0)))
+1651592820878	Marionette	INFO	Listening on port 44135
+Read port: 44135
+1651592820975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+1651592830221	Marionette	INFO	Stopped listening on port 44135
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651592870033	geckodriver	INFO	Listening on 127.0.0.1:48757
+1651592870110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQERwNY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651592870577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQERwNY/search.json.mozlz4", (void 0)))
+1651592872504	Marionette	INFO	Listening on port 33847
+Read port: 33847
+1651592872579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+1651592877015	Marionette	INFO	Stopped listening on port 33847
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651592905564	geckodriver	INFO	Listening on 127.0.0.1:53337
+1651592905638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelwr8Xk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651592906117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelwr8Xk/search.json.mozlz4", (void 0)))
+1651592907977	Marionette	INFO	Listening on port 40693
+Read port: 40693
+1651592908078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1651593054904	geckodriver	INFO	Listening on 127.0.0.1:54459
+1651593054971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileqPG9c3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651593055412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqPG9c3/search.json.mozlz4", (void 0)))
+1651593057656	Marionette	INFO	Listening on port 41671
+Read port: 41671
+1651593057715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+1651593122899	geckodriver	INFO	Listening on 127.0.0.1:41029
+1651593122970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemJmcoB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651593123456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemJmcoB/search.json.mozlz4", (void 0)))
+1651593125334	Marionette	INFO	Listening on port 38005
+Read port: 38005
+1651593125404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+1651593226775	geckodriver	INFO	Listening on 127.0.0.1:34205
+1651593226853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileY1eCQy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651593227304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY1eCQy/search.json.mozlz4", (void 0)))
+1651593229135	Marionette	INFO	Listening on port 36165
+Read port: 36165
+1651593229193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1651593315765	geckodriver	INFO	Listening on 127.0.0.1:53919
+1651593315829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVfhOae"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651593316292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVfhOae/search.json.mozlz4", (void 0)))
+1651593318176	Marionette	INFO	Listening on port 37791
+Read port: 37791
+1651593318377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ethicalsuperstore.com/special-offers/ line 1 > injectedScript, line 47: TypeError: window.google_trackConversion is not a function
+1651593340955	Marionette	INFO	Stopped listening on port 37791
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651593366657	Marionette	INFO	Stopped listening on port 36165
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651593367304	Marionette	INFO	Stopped listening on port 38005
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651593367901	Marionette	INFO	Stopped listening on port 41671
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651593368410	Marionette	INFO	Stopped listening on port 40693
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651593368910	Marionette	INFO	Stopped listening on port 42773
+1651593369221	Marionette	INFO	Stopped listening on port 46761
+1651593369362	Marionette	INFO	Stopped listening on port 34723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651593372649	Marionette	INFO	Stopped listening on port 38429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651593373743	Marionette	INFO	Stopped listening on port 38041
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651593374816	Marionette	INFO	Stopped listening on port 37017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651593375645	Marionette	INFO	Stopped listening on port 37345
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
