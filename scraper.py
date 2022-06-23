@@ -183,13 +183,13 @@ class Scraper:
             '''gets all the needed info for items to be added to the spreadsheet'''
             
             self.driver.get(to_add[1])
-            # try:
+            
             product_info = self.return_product_info_dict(self)
             [[key, value]] = product_info.items()
             s3_client = boto3.client('s3')
             s3 = boto3.resource('s3')
             name = value[1].strip()
-            #my_bucket = s3.Bucket('ethcialsuperstorescraperbucket')
+            
             
             product_df = pd.DataFrame.from_dict(product_info, orient='index', columns=['ID','Name','Credentials','Price','Reduction', 'Category', 'url'])
             print("trying to connect to db...")
@@ -206,7 +206,6 @@ class Scraper:
             os.chdir(f"data/{key}")
             with open (f"{key}.json", "w") as outfile:
                 json.dump(product_info, outfile)
-                #s3_client.upload_file((f"{key}.json"), 'ethcialsuperstorescraperbucket', (f"{name}.json"))
                 s3object = s3.Object('ethcialsuperstorescraperbucket', (f"{name}.json"))
                 s3object.put(Body=(bytes(json.dumps(product_info).encode('UTF-8'))))
                 
@@ -217,17 +216,6 @@ class Scraper:
                 s3_client.upload_file((f"{key}.png"), 'ethcialsuperstorescraperbucket', (f"{name}.png"))
             
             os.chdir(home)
-                # home = os.getcwd()
-                # os.mkdir(f"data/{key}")
-                # os.chdir(f"data/{key}")
-                # with open (f"{key}.json", "w") as outfile:
-                #     json.dump(product_info, outfile)
-                # with open((f'{key}.png'), 'wb') as file:
-                #     file.write(self.driver.find_element_by_xpath('/html/body/div[1]/div/div/div[2]/div[2]/div[1]/div/div[1]/a/figure/img').screenshot_as_png)
-                # os.chdir(home)
-            # except: 
-            #     print("product not found")
-            #     product_info = {}
             
             return product_info
 
